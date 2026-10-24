@@ -1,0 +1,27 @@
+﻿# Data processing
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+joblib
+
+# Geospatial processing
+shapely
+geopandas
+
+# API
+fastapi
+uvicorn[standard]
+
+# Configuration and validation
+pydantic-settings
+
+# Testing
+pytest
+httpx
+
+streamlit
+folium
+streamlit-folium
+plotly
