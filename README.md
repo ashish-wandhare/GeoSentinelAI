@@ -404,3 +404,17 @@ No project license has been selected yet. Review the licensing conditions of the
 **GeoSentinel AI — Environmental Intelligence**
 
 *Historical prototype · Not an emergency warning service*
+
+## 15. ScreenShots
+<img width="1905" height="942" alt="1_executiveOverview" src="https://github.com/user-attachments/assets/da6d0aa1-f660-4238-9b06-073d3fef0bb1" />
+<img width="1897" height="936" alt="2_WarningHistory" src="https://github.com/user-attachments/assets/309be521-7314-40ef-b7a3-1d178ed288ef" />
+<img width="1882" height="947" alt="3_AlertManagement" src="https://github.com/user-attachments/assets/b14bb780-b71b-4aea-aa9f-44289f24ed4c" />
+<img width="1896" height="947" alt="4_RainfallAnalytics" src="https://github.com/user-attachments/assets/5346103e-50a3-4ba4-8982-05e500e80cf1" />
+<img width="1891" height="945" alt="5_GeospitalIntelligence" src="https://github.com/user-attachments/assets/f70040ec-8276-4d12-9d98-d2f0c2bffd3d" />
+<img width="1901" height="942" alt="6_DataAndModelStatus" src="https://github.com/user-attachments/assets/47fcdb09-f10f-49c4-8fc0-4da865e7627e" />
+
+
+
+
+
+
