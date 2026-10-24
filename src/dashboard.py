@@ -2691,7 +2691,7 @@ elif page == "Geospatial Intelligence":
 
                 zoom_start=12,
 
-                tiles="CartoDB dark_matter",
+                tiles="OpenStreetMap",
 
             )
 
